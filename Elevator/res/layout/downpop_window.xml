@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/downMongolia"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#55000000"
+    android:orientation="vertical" >
+    
+    <GridView
+        android:id="@+id/gridView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="21dp"
+        android:paddingBottom="27dp"
+        android:paddingLeft="27dp"
+        android:paddingRight="27dp"
+        android:background="#ffffff"
+        android:alpha="242"
+       	android:numColumns="3"
+        android:verticalSpacing="21dp"
+        android:horizontalSpacing="10dp"
+        android:columnWidth="80dp"
+        android:stretchMode="columnWidth"
+        android:scrollbars="none"
+        android:gravity="center" />
+
+</LinearLayout>

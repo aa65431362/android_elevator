@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Elevator</string>
+    
+    <string name="down_text">请选择楼层</string>
+    <string name="pull_down">下拉</string>
+
+</resources>
